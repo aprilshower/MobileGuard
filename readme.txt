@@ -6,3 +6,5 @@ Today I create a new branch.
 
 Create a new branch line1.
 Work on master line.
+
+Create branch dev.
